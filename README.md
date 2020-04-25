@@ -1,1 +1,2 @@
-# russian_wsd_data
+# Generating Training Data for Word Sense Disambiguation in Russian
+This repository contains the implementation of the preprocessing steps and an algorithm described in the paper "Generating Training Data for Word Sense Disambiguation in Russian".
