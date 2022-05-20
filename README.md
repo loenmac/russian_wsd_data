@@ -11,3 +11,6 @@ To use this framework for compiling training collection for the WSD task, perfor
 - train word2vec model on your preprocessed text data with scripts contained in Word2Vec_Training.ipynb
 - extract monosemous relatives for the target polysemous words with algorithm implemented in Extracting_relatives.ipynb
 - Test_Train_Collection_creation.ipynb is used to compile test dataset and train collection in xml-format. This format is used in repository https://github.com/uhh-lt/bert-sense on which we based our training and inference procedures.
+
+
+Trained models are stores in the 'models' folder, bert-based models are available by link https://disk.yandex.ru/d/WBZujKJcRkN0sQ/
